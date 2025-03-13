@@ -2,7 +2,7 @@
   "name": "SkillBucks",
   "symbol": "SBX",
   "description": "SkillBucks is a token for study-based rewards.",
-  "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/Buckscoin.png",
+  "image": "https://raw.githubusercontent.com/divyanshu-912/SkillBucks-Metadata/main/Buckscoin.png",
   "attributes": [
     {
       "trait_type": "Purpose",
